@@ -3,7 +3,6 @@
 
 <div align="center">
  <img src="./assets/process.png">
-  <img src="./assets/teaser_.png">
 </div>
 
 ### [Paper](https://arxiv.org/abs/1905.01723) | [Official Pytorch code](https://github.com/NVlabs/FUNIT)
@@ -50,7 +49,10 @@ Will be soon
 ## Architecture
 ![architecture](./assets/architecture.png)
 
-## Result
+## Our result
+![our_result](./assets/teaser_.png)
+
+## Paper result
 ![result](./assets/result.png)
 
 ## Author
