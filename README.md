@@ -3,6 +3,7 @@
 
 <div align="center">
  <img src="./assets/animal.gif">
+ <img src="./assets/process.png" height=250>
 </div>
 
 ### [Paper](https://arxiv.org/abs/1905.01723) | [Official Pytorch code](https://github.com/NVlabs/FUNIT) 
