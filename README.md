@@ -49,7 +49,7 @@
 ## Architecture
 ![architecture](./assets/architecture.png)
 
-## Result
+## Our Result
 ![result](./assets/our_result.png)
 
 ## Author
