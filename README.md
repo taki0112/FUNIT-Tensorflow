@@ -49,8 +49,11 @@
 ## Architecture
 ![architecture](./assets/architecture.png)
 
-## Our Result
-![result](./assets/our_result.png)
+## Our result
+![our_result](./assets/our_result.png)
+
+## Paper result
+![paper_result](./assets/funit_example.jpg)
 
 ## Author
 [Junho Kim](http://bit.ly/jhkim_ai)
