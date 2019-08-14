@@ -6,7 +6,10 @@
  <img src="./assets/teaser_.png">
 </div>
 
-### [FUNIT-Pytorch](https://github.com/znxlwm/FUNIT-pytorch) | [Paper](https://arxiv.org/abs/1905.01723) | [Official Pytorch code](https://github.com/NVlabs/FUNIT) 
+### [Paper](https://arxiv.org/abs/1905.01723) | [Official Pytorch code](https://github.com/NVlabs/FUNIT) 
+
+## Pytorch Implementation
+* [FUNIT-Pytorch](https://github.com/znxlwm/FUNIT-pytorch)
 
 ## Usage
 ```
