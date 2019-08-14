@@ -50,7 +50,7 @@
 ![architecture](./assets/architecture.png)
 
 ## Result
-![result](./assets/result.png)
+![result](./assets/our_result.png)
 
 ## Author
 [Junho Kim](http://bit.ly/jhkim_ai)
